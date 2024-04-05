@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kunal Dugar</h1>
+<h1 align="center">Hi 👋, I'm Gyan Kirran</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-511&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-511" /> </p>
 
-- 🔭 I’m currently working on **Secrets_Social**
+- 🔭 I’m currently an **Fresher**.
 
-- 🌱 I’m currently learning **MongoDB, Backend Development, Integration, Web DeV**
+- 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **react, javascript, Express Js**
+- 💬 Ask me about **Core Java,Advance Java,Spring Boot,MYSQL,HTML,CSS,Javascript,Bootstrap,Tailwind**
 
-- 📫 How to reach me **yoyokvunal@gmail.com**
+- 📫 How to reach me **jeejulagyankirran@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13haLcCTCMKGKv-Zj7jfv5ztHvIya6Bra/view](https://drive.google.com/file/d/13haLcCTCMKGKv-Zj7jfv5ztHvIya6Bra/view)
 
